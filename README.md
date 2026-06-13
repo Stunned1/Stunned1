@@ -1,4 +1,4 @@
-![](cheng-xiaoshi-skate.png)
+<img src="cheng-xiaoshi-skate.png" width="300"/>
 
 # hey, I'm Aidan
 
