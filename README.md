@@ -1,16 +1,20 @@
-## Hi there 👋
+![](cheng-xiaoshi-skate.png)
 
-<!--
-**Stunned1/Stunned1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hey, I'm Aidan
 
-Here are some ideas to get you started:
+software developer. i build things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### what i'm working on
+
+- building projects i find interesting
+- learning something new
+
+### find me
+
+[Portfolio](https://anguy98.com) &nbsp;·&nbsp; [GitHub](https://github.com/Stunned1) &nbsp;·&nbsp; [Email](mailto:aidan.g124956@gmail.com)
+
+---
+
+*always open to interesting problems*
