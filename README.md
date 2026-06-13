@@ -1,20 +1,19 @@
-<img src="cheng-xiaoshi-skate.png" width="300"/>
+<img src="cheng-xiaoshi-skate.png" height="100"/>
 
-# hey, I'm Aidan
+# hey, im aidan
 
-software developer. i build things.
+i like to build things.
 
 ---
 
 ### what i'm working on
 
 - building projects i find interesting
-- learning something new
+- learning new stuff
 
 ### find me
 
-[Portfolio](https://anguy98.com) &nbsp;·&nbsp; [GitHub](https://github.com/Stunned1) &nbsp;·&nbsp; [Email](mailto:aidan.g124956@gmail.com)
+[Portfolio](https://anguy98.com) &nbsp;·&nbsp; [GitHub](https://github.com/Stunned1) &nbsp;·&nbsp; [Email](mailto:aidan.ngu98@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/anguy98/)
 
 ---
-
-*always open to interesting problems*
+:)
