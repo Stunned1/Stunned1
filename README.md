@@ -4,7 +4,7 @@ i like to build things.
 
 ---
 
-### what i'm working on      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="cheng-xiaoshi-skate.png" height="100" align="right"/>
+### what i'm working on   <img src="cheng-xiaoshi-skate.png" height="150" align="right"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 - building projects i find interesting                      
 - learning new stuff
