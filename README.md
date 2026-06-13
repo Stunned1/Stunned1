@@ -4,9 +4,9 @@ i like to build things.
 
 ---
 
-### what i'm working on
+### what i'm working on                                     <img src="cheng-xiaoshi-skate.png" height="100"/>
 
-- building projects i find interesting                       <img src="cheng-xiaoshi-skate.png" height="100"/>
+- building projects i find interesting                      
 - learning new stuff
 
 ### find me
