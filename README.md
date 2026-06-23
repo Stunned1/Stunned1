@@ -6,7 +6,7 @@ i like to build things.
 
 ### what i'm working on   <img src="cheng-xiaoshi-skate.png" height="150" align="right"/>
 
-- building projects i find interesting or useful                     
+- Currently building Orca                 
 - learning new stuff
 
 ### find me
